@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "771329727855",
+    "firebase_url": "https://call-genius-f096c.firebaseio.com",
+    "project_id": "call-genius-f096c",
+    "storage_bucket": "call-genius-f096c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771329727855:android:e1d91e3eabdb4538425c9a",
+        "android_client_info": {
+          "package_name": "com.example.callgenius"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771329727855-k8m20khmalub00uvh81a5t5f0hknnnab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.callgenius",
+            "certificate_hash": "4ebd6ffc2a0d15c0f74c7b7292231a990f9e6f38"
+          }
+        },
+        {
+          "client_id": "771329727855-tf31jfej503i6ka4d123hueb1qqddeig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.callgenius",
+            "certificate_hash": "14f6e1a3188aaed9cbc7a8ae4791904b743f3acf"
+          }
+        },
+        {
+          "client_id": "771329727855-3f31ovf0s1l5cmtl7cmn9m3u621l398r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPXtwVFjcuG_C5UwHNndVIfmiuPLHpd6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771329727855-3f31ovf0s1l5cmtl7cmn9m3u621l398r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771329727855:android:d6dbf62e9ddc8423425c9a",
+        "android_client_info": {
+          "package_name": "com.example.callgeniusbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771329727855-imu9hpmjq247otuqr9edqdamrekl7ipf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.callgeniusbeta",
+            "certificate_hash": "14f6e1a3188aaed9cbc7a8ae4791904b743f3acf"
+          }
+        },
+        {
+          "client_id": "771329727855-3f31ovf0s1l5cmtl7cmn9m3u621l398r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPXtwVFjcuG_C5UwHNndVIfmiuPLHpd6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771329727855-3f31ovf0s1l5cmtl7cmn9m3u621l398r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

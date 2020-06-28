@@ -1,0 +1,7 @@
+#Wed Jun 24 19:19:33 PKT 2020
+base.0=C\:\\Users\\usman\\AndroidStudioProjects\\CallGenius\\app\\build\\intermediates\\dex\\release\\mergeExtDexRelease\\out\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\usman\\AndroidStudioProjects\\CallGenius\\app\\build\\intermediates\\dex\\release\\mergeProjectDexRelease\\out\\classes.dex

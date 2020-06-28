@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fragments.User.UserFragment">
+
+    <FrameLayout
+        android:id="@+id/Settings"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </FrameLayout>
+
+    <Button
+        android:id="@+id/Signout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#DCFF0101"
+        android:drawableStart="@drawable/signout"
+        android:drawablePadding="17dp"
+        android:gravity="start|center_horizontal|center_vertical"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:text="@string/signout"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Signin">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="256dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:contentDescription="@string/app_name"
+        app:srcCompat="@drawable/logo" />
+
+    <Button
+        android:id="@+id/signin_google"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:background="#FFFFFF"
+        android:drawableStart="@drawable/googleg_standard_color_18"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:text="@string/signin_google" />
+
+    <Button
+        android:id="@+id/signin_email"
+        android:layout_width="270dp"
+        android:layout_height="wrap_content"
+        android:background="#DB1717"
+        android:drawableStart="@android:drawable/ic_dialog_email"
+        android:paddingStart="20dp"
+        android:paddingEnd="20dp"
+        android:text="@string/signin_email"
+        android:textColor="#FCFFFFFF" />
+</LinearLayout>
